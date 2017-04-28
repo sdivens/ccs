@@ -11,5 +11,8 @@ public class Main {
         System.out.println("修复bug");
     }
 
+    public void shardMethod() {
+        System.out.println("这是一个公共方法,test4创建");
+    }
 
 }
